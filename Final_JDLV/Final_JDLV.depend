@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1549491282 source:d:\users\admin\documents\projects_codeblocks\final_jdlv\main.c
+	"typeCell.h"
+
+1549491277 d:\users\admin\documents\projects_codeblocks\final_jdlv\typecell.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1549491287 source:d:\users\admin\documents\projects_codeblocks\final_jdlv\utilisationcellules.c
+	"typeCell.h"
+	"initFichier.h"
+
+1549491241 source:d:\users\admin\documents\projects_codeblocks\final_jdlv\enregfichier.c
+	"initFichier.h"
+
+1549491271 d:\users\admin\documents\projects_codeblocks\final_jdlv\initfichier.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
